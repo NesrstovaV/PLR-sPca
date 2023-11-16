@@ -5,9 +5,17 @@ The proposed method to identify important pairwise logratios (and parts) using s
 Calculations were performed in following software, using the listed libraries:
 - R version: 4.1.3 (2022-03-10) -- "One Push-Up"
 - Essential libraries:
+    - sparsepca: for sparse PCA; version 0.1.2
+    - easyCODA: for STEP; version 0.34.3
+    - compositions: to handle compositional data; version 2.0-4
 
 ## Available scripts
-1. Functions
+1. Auxiliary functions
 2. Simulations
-3. Real data applications
-4. Toy example
+   a) Scenario A
+   b) Scenario B
+   c) Scenario C
+4. Real data applications
+   a) Aar massif data set
+   b) Archaeometric data set
+6. Toy example

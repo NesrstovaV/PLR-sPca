@@ -24,4 +24,5 @@ Calculations were performed in following software, using the listed libraries:
 
    b) Archaeometric data set
 6. Toy example
+
 An easy-to-use example of how to perform the calculations and obtain the matrix of sparse loadings.

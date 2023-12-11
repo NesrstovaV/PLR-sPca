@@ -273,7 +273,7 @@ difference.1A.STEP <- tabCumSums.1A.STEP - rep(cumsum.ideal.1A, each = nrow(tabC
 
 ### Visualisation --------------------------------------------------------------
 
-# a) Fig1: illustrative stability plot: JESTE VRACI ERROR
+# a) Fig1: illustrative stability plot:
 plot_heat_PLRs_illustration(input.sPCA = res1A, input.STEP = res1A.STEP, input.STEP2 = resulting.list1A.STEP,a=a)
 
 # b) Fig2 a,b: comparison of sPCA and STEP

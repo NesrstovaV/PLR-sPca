@@ -14,13 +14,13 @@ Calculations were performed in following software, using the listed libraries:
 
 ## Available scripts
 1. Auxiliary functions
-2. Simulations
+2. Simulations (for both D = 10 and D = 20); D = number of compositional parts
 
-   a) Scenario A
+   a) Scenario A: balanced amount of relevant and noise balances to generate data
 
-   b) Scenario B
+   b) Scenario B: more relevant balances 
 
-   c) Scenario C
+   c) Scenario C: more noise balance
 4. Real data applications
 
    a) Aar massif data set

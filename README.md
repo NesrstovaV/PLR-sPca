@@ -1,7 +1,5 @@
 # Identifying important pairwise logratios (PLRs) using sparse PCA (sPCA)
 
-IN PROCESS
-
 The proposed method to identify important pairwise logratios (and parts) using sparse PCA (introduced in "Erichson, N. B., Zheng, P., Manohar, K., Brunton, S. L., Kutz, J. N., Aravkin, A. Y. (2020). Sparse principal component analysis via variable projection. SIAM Journal on Applied Mathematics 80(2):977–1002") is introduced in "Nesrstová, V., Wilms, I., Hron, K., Filzmoser, P. Identifying Important Pairwise Logratios in Compositional Data with Sparse Principal Component Analysis" (currently under revision; November 2023).
 
 ## Requirements
@@ -14,6 +12,7 @@ Calculations were performed in following software, using the listed libraries:
 
 ## Available scripts
 1. Auxiliary functions
+   Set of functions to create sPCA models, simulations and visualisation.
 2. Simulations (for both D = 10 and D = 20); D = number of compositional parts
 
    a) Scenario A: balanced amount of relevant and noise balances to generate data
@@ -21,7 +20,8 @@ Calculations were performed in following software, using the listed libraries:
    b) Scenario B: more relevant balances 
 
    c) Scenario C: more noise balance
-4. Real data applications
+3. Real data applications
+Empirical data sets Aar and archaeometric data set (cups).
 
    a) Aar massif data set
 

@@ -8,7 +8,7 @@ rm(list = ls())
 # R version: R version 4.0.5 (2021-03-31) Shake and Throw (DELL)
 # R vevrsion: R version 4.2.1 (2022-06-23) Funny-Looking Kid (Mac)
 
-library(compositions)   # to handle compositional data; Aar massif data set; version 2.0-4
+library(compositions)   # to handle compositional data; version 2.0-4
 library(sparsepca)      # function spca(); version 0.1.2
 library(easyCODA)       # function STEP(); data set "cups";version 0.35.2
 library(tictoc)         # simmulation time measurement; version 1.0.1

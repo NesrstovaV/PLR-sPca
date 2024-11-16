@@ -6,6 +6,7 @@
 rm(list = ls())
 
 # 1) Load necessary functions and libraries ------------------------------------
+library(compositions)
 library(sparsepca)
 library(MASS)
 
